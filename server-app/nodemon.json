@@ -1,0 +1,6 @@
+{
+"watch":["scr"],
+"ext":".ts,.js",
+"exec":"ts-node scr/server.ts"
+
+}
